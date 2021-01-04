@@ -17,6 +17,5 @@ I love mountaineering, hiking, cycling. I like to watch movies, read books, list
   <li><font color = "blue"><b>surzoprovakar@gmail.com</b></font>(primary)</li>
   <li><font color = "blue"><b>provakar.m@samsung.com</b></font>(work)</li>
   <li><font color = "blue"><b>1405034.pm@ugrad.cse.buet.ac.bd</b></font>(academic)</li>
-  <li><font color = "blue"><b>+8801785-075700</b></font></li>
 </ul>
 
