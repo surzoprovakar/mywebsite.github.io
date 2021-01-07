@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "&nbsp Provakar Mondal"
+  name             : "Provakar Mondal"
   avatar           : "provakar.jpg"
-  bio              : "&nbsp &nbsp &nbsp &nbsp<b>Software Engineer</b>"
+  bio              : "<b>Software Engineer (SRBD)</b>"
   # location         : "Location"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
